@@ -1,5 +1,14 @@
 # Know website page size
-Using HTML JS
+> [!NOTE]
+> Using HTML JS
+
+----------
+> [!IMPORTANT]
+> Ce code permet de connaître la taille de la page web en pixels ( `px` )
+>
+> This code enable you to know the size of the web page in pixels ( `px` )
+
+----------
 
 > [!NOTE]
 >
