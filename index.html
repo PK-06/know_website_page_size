@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>
+			PageSize
+		</title>
+	</head>
+	<body>
+		<button onclick="size()">Click to know website page size !</button>
+		<span id="result"></span>
+	<script>
+		function size() {
+			var w = window.innerWidth;
+			var h = window.innerHeight;
+
+			var x = document.getElementById("result");
+			x.innerHTML = "width: " + w + "px , height: " + h + "px .";
+		}
+	</script>
+
+	</body>
+</html>
