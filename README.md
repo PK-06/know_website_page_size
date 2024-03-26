@@ -1,12 +1,14 @@
 # Know website page size
 > [!NOTE]
-> Using HTML and JS in HTML
+> 🇫🇷 - Utilise HTML et JS dans HTML
+> 
+> 🇬🇧 - Using HTML and JS in HTML
 
 ----------
 > [!IMPORTANT]
-> Ce code permet de connaître la taille de la page web en pixels ( `px` )
+> 🇫🇷 - Ce code permet de connaître la taille de la page web en pixels ( `px` )
 >
-> This code enable you to know the size of the web page in pixels ( `px` )
+> 🇬🇧 - This code enable you to know the size of the web page in pixels ( `px` )
 
 ----------
 
@@ -32,21 +34,21 @@
 ----------
 
 > [!WARNING]
->`index.html` du `main` contient le html et le js
+> 🇫🇷 - `index.html` du `main` contient le html et le js
 >
-> `index.html` of `main` contains html and js
+> 🇬🇧 -`index.html` of `main` contains html and js
 > 
-> le dossier `source` contient les fichiers html et js séparé
+> 🇫🇷 - le dossier `source` contient les fichiers html et js séparé
 >
-> `source` folder contains html and js files separated
+> 🇬🇧 -`source` folder contains html and js files separated
 
 ----------
 
 > [!TIP]
-> Télécharger `index.html` / Download `index.html`
+> 🇫🇷 Télécharger `index.html` / 🇬🇧 Download `index.html`
 > 
 > `gh repo clone PK-06/know_website_page_size`
 >
-> ou / or
+> 🇫🇷 ou / 🇬🇧 or
 > 
 > `git clone https://github.com/PK-06/know_website_page_size.git`
