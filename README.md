@@ -21,4 +21,7 @@ Using HTML JS
 
 > [!TIP]
 > Télécharger index.html / Download index.html
-> `gh repo clone 
+> 
+> `gh repo clone PK-06/know_website_page_size`
+>
+> `git clone 
