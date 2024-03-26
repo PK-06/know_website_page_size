@@ -31,6 +31,17 @@
 
 ----------
 
+> [!WARNING]
+>`index.html` du `main` contient le html et le js
+>
+> `index.html` of `main` contains html and js
+> 
+> le dossier `source` contient les fichiers html et js séparé
+>
+> `source` folder contains html and js files separated
+
+----------
+
 > [!TIP]
 > Télécharger `index.html` / Download `index.html`
 > 
