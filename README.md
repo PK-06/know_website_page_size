@@ -1,2 +1,2 @@
-# know_website_page_size
-HTML JS
+# Know website page size
+Using HTML JS
