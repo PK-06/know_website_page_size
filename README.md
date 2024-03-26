@@ -19,7 +19,7 @@ Using HTML JS
 
 3 - Click on the button in the web page
 
----------------------------------------------------
+----------
 
 > [!TIP]
 > Télécharger index.html / Download index.html
