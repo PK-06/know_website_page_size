@@ -1,7 +1,7 @@
 # Know website page size
 Using HTML JS
 
- - Guide d' Utilisation \n
+🇫🇷 - Guide d' Utilisation \n
 1 - Téléchargez index.html (Voir à la fin si problème)
 2 - Ouvrez le fichier dans un navigateur
 3 - Cliquez sur le bouton sur la page web
