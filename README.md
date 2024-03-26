@@ -36,6 +36,6 @@
 > 
 > `gh repo clone PK-06/know_website_page_size`
 >
-> or
+> ou / or
 > 
 > `git clone https://github.com/PK-06/know_website_page_size.git`
