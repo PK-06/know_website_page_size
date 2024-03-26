@@ -1,6 +1,7 @@
 # Know website page size
 Using HTML JS
 
+
 🇫🇷 - Guide d' Utilisation 
 
 1 - Téléchargez index.html (Voir à la fin si problème)
@@ -18,10 +19,13 @@ Using HTML JS
 
 3 - Click on the button in the web page
 
+---------------------------------------------------
 
 > [!TIP]
 > Télécharger index.html / Download index.html
 > 
 > `gh repo clone PK-06/know_website_page_size`
 >
-> `git clone 
+> or
+> 
+> `git clone https://github.com/PK-06/know_website_page_size.git`
