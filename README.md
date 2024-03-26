@@ -14,7 +14,7 @@
 >
 > 🇫🇷 - Guide d' Utilisation 
 >
-> 1 - Téléchargez index.html (Voir à la fin si problème)
+> 1 - Téléchargez `index.html` (Voir à la fin si problème)
 >
 > 2 - Ouvrez le fichier dans un navigateur
 >
@@ -23,7 +23,7 @@
 >
 > 🇬🇧 - Use Guide 
 >
-> 1 - Download index.html (See at the end if there is a problem) 
+> 1 - Download `index.html` (See at the end if there is a problem) 
 >
 > 2 - Open the file in a browser 
 >
@@ -32,7 +32,7 @@
 ----------
 
 > [!TIP]
-> Télécharger index.html / Download index.html
+> Télécharger `index.html` / Download `index.html`
 > 
 > `gh repo clone PK-06/know_website_page_size`
 >
