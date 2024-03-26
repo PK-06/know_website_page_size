@@ -1,6 +1,6 @@
 # Know website page size
 > [!NOTE]
-> Using HTML JS
+> Using HTML and JS in HTML
 
 ----------
 > [!IMPORTANT]
